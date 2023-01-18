@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "helloworldamplify70d96485": {}
+      },
+      "api": {
+        "helloworldamplify": {}
+      },
+      "storage": {
+        "s3409b08aa": {}
       }
     }
   }
